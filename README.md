@@ -3,7 +3,7 @@ Employee
 Read Employee details from text file. Allows user to edit SSN, Position, DOB, Name and Department. 
 Also allows user to view time logs for each employee. 
 
-*** deatils.txt*** 
+*** details.txt*** 
 
 10 alice 4/23/1972 123-45-6789 support assistant
 
